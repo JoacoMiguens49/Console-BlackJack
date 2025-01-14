@@ -1,7 +1,7 @@
 # Console-BlackJack
 BlackJack game in Python for CMD or another console.
 
-Instructions : 
+- Instructions : 
 
 cd to the directory the py. file is currently on
 py BlackJack.py
