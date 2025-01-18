@@ -8,3 +8,6 @@ py BlackJack.py
 
 Game Configuration : Insert the number of players for the game, and establish min/max bets.
 Play!
+
+
+Made by Joaquín Miguens
